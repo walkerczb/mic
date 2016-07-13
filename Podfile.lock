@@ -1,0 +1,12 @@
+PODS:
+  - QRCodeReaderViewController (4.0.1)
+
+DEPENDENCIES:
+  - QRCodeReaderViewController (~> 4.0.1)
+
+SPEC CHECKSUMS:
+  QRCodeReaderViewController: 6538745c8f4ffa9407a26bd7f9489ea01739e7b0
+
+PODFILE CHECKSUM: 892684a44827aa99a6de07acfdf2dc0f09422a40
+
+COCOAPODS: 1.0.1
